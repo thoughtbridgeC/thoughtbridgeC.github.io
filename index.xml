@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://thoughtbridgeC.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Feb 2024 12:58:53 -0600</lastBuildDate>
+    <atom:link href="https://thoughtbridgeC.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thoughtbridgeC.github.io/post/mypost/</link>
+      <pubDate>Sat, 17 Feb 2024 12:58:53 -0600</pubDate>
+      <guid>https://thoughtbridgeC.github.io/post/mypost/</guid>
+      <description>SORA&amp;rsquo;s Arrival: OpenAI&amp;rsquo;s Next Big Leap and Why We&amp;rsquo;re Pumped! The unveiling of SORA by OpenAI marks a revolutionary stride in the field of artificial intelligence. SORA, a sophisticated generative AI system, has emerged as a beacon of innovation, promising to redefine the creative and analytical capabilities of machine learning.It&amp;rsquo;s not just another AI system; it&amp;rsquo;s a game-changer that&amp;rsquo;s here to shake things up in creativity and data analysis. Let&amp;rsquo;s dive into what makes SORA the talk of the town and why we can&amp;rsquo;t stop geeking out over it.</description>
+    </item>
+  </channel>
+</rss>
